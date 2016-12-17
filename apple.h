@@ -6,10 +6,7 @@ class Apple
 {
 public:
     int x, y;
-
     Apple();
-
-
 };
 
 #endif // APPLE_H
